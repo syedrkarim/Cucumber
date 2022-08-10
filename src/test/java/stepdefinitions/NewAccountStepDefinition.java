@@ -29,11 +29,11 @@ public class NewAccountStepDefinition extends TestBase {
 	}
 
 	
-	@Given("^User is on the techfios login page$")
-	public void user_is_on_the_techfios_login_page() {
+	@Given("^User is on TechFios login page$")
+	public void user_is_on_TechFios_login_page() {
 		driver.get("https://techfios.com/billing/?ng=admin/");
 	}
-
+	
 	@When("^User enters username as \"([^\"]*)\"$")
 	public void user_enters_username_as(String username) {
 		loginPageObj.enterUserName(username);

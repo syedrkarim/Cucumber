@@ -22,7 +22,7 @@ formatter.scenarioOutline({
 });
 formatter.step({
   "line": 5,
-  "name": "User is on the techfios login page",
+  "name": "User is on TechFios login page",
   "keyword": "Given "
 });
 formatter.step({
@@ -140,11 +140,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 3273504400,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 1355167800,
+  "duration": 2065671500,
   "status": "passed"
 });
 formatter.scenario({
@@ -163,7 +159,7 @@ formatter.scenario({
 });
 formatter.step({
   "line": 5,
-  "name": "User is on the techfios login page",
+  "name": "User is on TechFios login page",
   "keyword": "Given "
 });
 formatter.step({
@@ -269,10 +265,10 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "NewAccountStepDefinition.user_is_on_the_techfios_login_page()"
+  "location": "NewAccountStepDefinition.user_is_on_TechFios_login_page()"
 });
 formatter.result({
-  "duration": 1008422400,
+  "duration": 2591784600,
   "status": "passed"
 });
 formatter.match({
@@ -285,7 +281,7 @@ formatter.match({
   "location": "NewAccountStepDefinition.user_enters_username_as(String)"
 });
 formatter.result({
-  "duration": 125807900,
+  "duration": 159732800,
   "status": "passed"
 });
 formatter.match({
@@ -298,35 +294,35 @@ formatter.match({
   "location": "NewAccountStepDefinition.user_enters_password_as(String)"
 });
 formatter.result({
-  "duration": 107426800,
+  "duration": 86757400,
   "status": "passed"
 });
 formatter.match({
   "location": "NewAccountStepDefinition.user_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 857613300,
+  "duration": 4733825100,
   "status": "passed"
 });
 formatter.match({
   "location": "NewAccountStepDefinition.user_should_land_on_Dashboard_page()"
 });
 formatter.result({
-  "duration": 10154600,
+  "duration": 13511300,
   "status": "passed"
 });
 formatter.match({
   "location": "NewAccountStepDefinition.user_clicks_on_bankCash()"
 });
 formatter.result({
-  "duration": 326428500,
+  "duration": 112894400,
   "status": "passed"
 });
 formatter.match({
   "location": "NewAccountStepDefinition.user_click_on_newAccount()"
 });
 formatter.result({
-  "duration": 714805000,
+  "duration": 731996500,
   "status": "passed"
 });
 formatter.match({
@@ -339,7 +335,7 @@ formatter.match({
   "location": "NewAccountStepDefinition.user_enters_account_title_as(String)"
 });
 formatter.result({
-  "duration": 166584900,
+  "duration": 143445500,
   "status": "passed"
 });
 formatter.match({
@@ -352,7 +348,7 @@ formatter.match({
   "location": "NewAccountStepDefinition.user_enters_description_as(String)"
 });
 formatter.result({
-  "duration": 123539000,
+  "duration": 90420800,
   "status": "passed"
 });
 formatter.match({
@@ -365,7 +361,7 @@ formatter.match({
   "location": "NewAccountStepDefinition.user_enters_initial_balance_as(String)"
 });
 formatter.result({
-  "duration": 163796900,
+  "duration": 168993200,
   "status": "passed"
 });
 formatter.match({
@@ -378,7 +374,7 @@ formatter.match({
   "location": "NewAccountStepDefinition.user_enters_account_number_as(String)"
 });
 formatter.result({
-  "duration": 163276400,
+  "duration": 134137500,
   "status": "passed"
 });
 formatter.match({
@@ -391,7 +387,7 @@ formatter.match({
   "location": "NewAccountStepDefinition.user_enters_contact_person_as(String)"
 });
 formatter.result({
-  "duration": 132877900,
+  "duration": 123302000,
   "status": "passed"
 });
 formatter.match({
@@ -404,7 +400,7 @@ formatter.match({
   "location": "NewAccountStepDefinition.user_enters_phone_as(String)"
 });
 formatter.result({
-  "duration": 134184100,
+  "duration": 118123600,
   "status": "passed"
 });
 formatter.match({
@@ -417,29 +413,25 @@ formatter.match({
   "location": "NewAccountStepDefinition.user_enters_internet_banking_url_as(String)"
 });
 formatter.result({
-  "duration": 206271900,
+  "duration": 186024200,
   "status": "passed"
 });
 formatter.match({
   "location": "NewAccountStepDefinition.user_clicks_on_newAccount_button()"
 });
 formatter.result({
-  "duration": 673511800,
+  "duration": 1002707800,
   "status": "passed"
 });
 formatter.match({
   "location": "NewAccountStepDefinition.user_should_be_able_to_validate_account_created_successfully()"
 });
 formatter.result({
-  "duration": 86652500,
+  "duration": 104031300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 661953900,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 724269600,
+  "duration": 164038000,
   "status": "passed"
 });
 });

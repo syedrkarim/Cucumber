@@ -2,7 +2,7 @@
 Feature: Techfios bank and cash New Account Functionality
 
   Scenario Outline: User should be able to login with valid credentials and open a new account
-    Given User is on the techfios login page
+    Given User is on TechFios login page
     When User enters username as "<username>"
     When User enters password as "<password>"
     And User clicks on login button
